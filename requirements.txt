@@ -3,3 +3,4 @@ spacy==3.6.1
 transformers==4.35.0
 torch==2.0.1  # Needed for transformers and sentiment analysis
 en-core-web-sm==3.6.1  # The spaCy English model
+thinc==8.1.10
